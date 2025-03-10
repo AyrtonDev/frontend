@@ -5,7 +5,7 @@
 - Frontend: Vue 3, vite, Typescript, Tailwind, shadcn-vue
 - Backend: Node, express, typescript, postgres
 
-Aqui esta uma parte do que sei fazer peços desculpas pela entrega, tentei fazer o meu maximo no tempo que foi me dado, usei arquitetura básica no front, já o backend procurei usar o clean architecture, usando as melhores praticas que veio refinando. o backend esta em servidor ec2 usando rds tambem do aws, o front deverá ser baixado e rodado.
+Aqui esta uma parte do que sei fazer peços desculpas pela entrega, tentei fazer o meu maximo no tempo que foi me dado, usei arquitetura básica no front, já o backend procurei usar o clean architecture, usando as melhores praticas que venho refinando. o backend esta em servidor ec2 usando rds tambem do aws, o front deverá ser baixado e rodado.
 
 ## Como roda
 
